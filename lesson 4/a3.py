@@ -13,4 +13,4 @@ print(MyName[5])
 # A a y u s h
 # 0 1 2 3 4 5
 
-print(MyName[::-1 ]  )
+print(MyName[0:3:1 ]  )
