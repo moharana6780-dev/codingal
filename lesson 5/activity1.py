@@ -6,6 +6,6 @@ heightfive = 66.5
 SUM = heightone + heighttwo + heightthree + heightfour + heightfive
 print(SUM)
 AVERAGE = SUM / 5 
-print(AVERAGE)
+print(AVERAGE ,"is your marks")
 
 
