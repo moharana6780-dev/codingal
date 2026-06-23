@@ -4,4 +4,4 @@ print(a is b)
 
 x = "6"
 if (type(x)is int):
-    print("TRUE")
+    print("TRUE") 
